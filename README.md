@@ -11,10 +11,10 @@ Las características clave de P2P Bot BinancitoExchangeMate incluyen notificacio
 
 # Caracteristicas
 1. Seguimiento de precios según estrategias.
-2. Cuenta con 6 estrategias.
+2. Resumen de las transacciones por metodos de pagos
 3. Control de topes para evitar sobrecompras.
 4. Precio de mercado en tiempo real.
-5. Excluir usuarios para no competir con ellos.
+5. Excluir usuarios para no competir con ellos e Incluir para perseguir usuarios en especificos, puede controlar por moneda y tipo transaccion. (Compras y Ventas)
 6. Interfaz amigable y fácil de usar, solo para Windows.
 7. Notificaciones via telegram a las nuevas ordenes
 8. Control via telegram

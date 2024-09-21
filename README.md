@@ -22,6 +22,9 @@ Las características clave de P2P Bot BinancitoExchangeMate incluyen notificacio
 ## Solicita tu demo... Sin compromiso.
 
 ## Nota: Soy el único distribuidor de este aplicativo. No debes pagar nada al momento de la activación; el pago se realiza después de la activación.
+![6a1271bf-67ca-4252-802a-c4af4f11e7d4 21-09-2024 1248](https://github.com/user-attachments/assets/ffd282ce-bedd-427c-8008-8195b6d376cb)
 ![image](https://github.com/user-attachments/assets/972ef3b1-14a0-4bc7-b638-6a2e1298c35e)
 ![image](https://github.com/user-attachments/assets/5c513b45-7292-479b-ac85-2fdd148df3a7)
-![image](https://github.com/user-attachments/assets/b1449c64-8eb2-4e72-94ce-cceb4e6436bf)  
+![image](https://github.com/user-attachments/assets/b1449c64-8eb2-4e72-94ce-cceb4e6436bf)
+
+
